@@ -27,3 +27,5 @@ if (codigo) {
 | Cabecera1 | Cabecera2 |
 |-----------|-----------|
 | Elemento1 | Elemento2 |
+
+![](flor.png)
